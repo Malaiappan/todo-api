@@ -11,5 +11,9 @@
   "dependencies": {
     "mongoose": "^4.0.7",
     "restify": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Malaiappan/todo-api"
   }
 }
